@@ -1,2 +1,1 @@
-# Yandex_cup
-small Yandex competition
+# Yandex_cup2023
