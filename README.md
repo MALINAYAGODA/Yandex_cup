@@ -1,4 +1,4 @@
-# Yandex_cup (20/236)
+# Yandex_cup (placw: 20/236)
 Hackathon from Yandex_cup, ML direction: RecSys "In search of reality", in the task "Classification with multiple levels of music genres". It was necessary to train the best model to predict the top of several classes (out of 256 possible), genres of songs thanks to embeddings.
 ## Data:
 Data Form: (100000, N, 768), where *N* is different size for each object.
