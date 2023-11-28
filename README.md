@@ -16,7 +16,7 @@ Data Form: (100000, N, 768), where *N* is different size for each object.
 - Combining all models into blending, which gave the best result (stacking retraining)
 ## Technologies:
 - Pytorch
-- Transformers
+- CNN
 - RNN
 - KFold
 - Seaborn
